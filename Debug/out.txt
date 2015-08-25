@@ -1,0 +1,23 @@
+18, 49
+24, 48
+30, 45
+36, 46
+42, 58
+48, 60
+54, 61
+60, 63
+66, 64
+72, 64
+78, 63
+84, 55
+90, 59
+96, 58
+102, 58
+108, 55
+The abscissas of points of intersection are at [16.1205,117.3769]
+The approximate eye center is at 67, 49 with the radius of 37.9461
+color: 137
+Edge points found at X: 67, Y: 49
+Edge points found at X: 67, Y: 49
+Edge points found at X: 67, Y: 52
+The final eye center is at 67, 50 with the radius of 1.545
